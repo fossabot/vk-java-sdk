@@ -1,4 +1,6 @@
 ## Java SDK for VK API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-java-sdk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-java-sdk?ref=badge_shield)
+
 
 Java library for VK API interaction, includes OAuth 2.0 authorization and API methods. Full VK API features documentation can be found [here](http://vk.com/dev).
 
@@ -365,3 +367,7 @@ callbackApiHandler.parse(body);
 ```
 ## 12. Usage Example
 As an SDK usage example we have releazed the YouTrack bot. The documentation can be found [here](https://github.com/VKCOM/vk-java-sdk/wiki/YouTrack-bot).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-java-sdk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-java-sdk?ref=badge_large)
